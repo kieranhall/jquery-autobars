@@ -80,7 +80,7 @@
 
 
       return pipe;
-    },
+    }
   };
   jQuery.fn.autoBars = function(options, callback) {
     args = Array.prototype.slice.call(arguments, 0);
